@@ -16,5 +16,6 @@ public class asciiManipulation {
         else sb.append(ch);
     }
     System.out.println(sb.toString());
+    sc.close();
  }
 }

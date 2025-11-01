@@ -11,5 +11,6 @@ public class rotCheck {
             System.out.println(true);
         }
         else System.out.println(false);
+        sc.close();
     }
 }
